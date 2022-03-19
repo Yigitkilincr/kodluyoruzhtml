@@ -1,0 +1,12 @@
+.nav{
+    text-decoration: none;
+    padding-left: 170px;
+    padding-right: 170px;
+    text-align: center;
+    box-sizing: border-box;
+    width: 10px;
+    height: 10px;
+    border: 2px #557B83;
+    box-shadow: 2px 4px;
+    background-color: #39AEA9;
+}
