@@ -1,0 +1,23 @@
+.baslik1{
+    border: 4px #05595B;
+    padding: 15px;
+    background-color: #05595B;
+    border-radius: 14px;
+}
+.baslik2{
+    text-align: center;
+}
+.baslik3{
+    text-align: center;
+}
+.baslik4{
+    border: 4px #F2FA5A;
+    padding: 15px;
+    background-color: #E45826;
+    border-radius: 14px;
+}
+.div1{
+    border: 4px #E45826;
+    border-radius: 14px;
+    border-style: groove;
+}
